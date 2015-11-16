@@ -144,9 +144,7 @@ export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_INSTALL/lib/native
 export HADOOP_OPTS="-Djava.library.path=$HADOOP_INSTALL/lib"
 #HADOOP VARIABLES END
 
-
 TERM=xterm-256color
-
 
 alias mountshared='sudo mount -t vboxs Shared shared'
 export VISUAL=vim
