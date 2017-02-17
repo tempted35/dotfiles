@@ -13,6 +13,8 @@ set hlsearch
 hi search guibg=Yellow
 set dictionary=/usr/share/dict/words
 
+set colorcolumn=90 
+highlight ColorColumn ctermbg=darkgray 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " autocmd
